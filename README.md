@@ -14,6 +14,9 @@
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
     <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask" alt="Flask Badge">
   </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-.NET%20Core-black?style=flat-square&logo=dotnet" alt=".NET Core Badge">
+  </a>
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes" alt="Kubernetes Badge">
   </a>
